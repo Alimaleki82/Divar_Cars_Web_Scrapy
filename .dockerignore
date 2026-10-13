@@ -1,0 +1,14 @@
+.env
+.git/
+.gitignore
+
+.venv/
+venv/
+bin/
+
+__pycache__/
+*.py[cod]
+
+.vscode/
+.idea/
+.DS_Store
